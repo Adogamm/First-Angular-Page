@@ -9,4 +9,5 @@ export class AppComponent {
   title: string = 'Primera aplicación con Angular';
   curso: string = 'Curso de Sring & Angular';
   estudiante: string = 'Adolfo León';
+  
 }
